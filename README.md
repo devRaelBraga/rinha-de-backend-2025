@@ -4,7 +4,14 @@ A Rinha de Backend é um desafio em que é necessário desenvolver uma solução
 
 Os resultados dessa edição estão disponíveis [aqui](./RESULTADOS_FINAIS.md)!!!
 
-Enquanto a tinha estava rolando, você podia acompanhar a prévia dos resultados [aqui](./PREVIA_RESULTADOS.md) ou por este [fantástico site](https://rinhers.kauefraga.dev/) gentilmente desenvolvido pelo [Kauê Fraga](https://kauefraga.dev/), ou [este site](https://rinha2025.andersongomes.dev.br/) focado no ranking desenvolvido por [Anderson Gomes](https://andersongomes.dev.br/).
+## Sites Memoráveis Feitos pela Comunidade
+
+- [https://rinhers.kauefraga.dev/](https://rinhers.kauefraga.dev/) mostra um overview do participantes, por [Kauê Fraga](https://kauefraga.dev/).
+
+- [https://rinha2025.andersongomes.dev.br/](https://rinha2025.andersongomes.dev.br/) virou praticamente o ranking oficial dessa edição, por [Anderson Gomes](https://andersongomes.dev.br/).
+
+- [https://rinha2025.cadumagalhaes.dev/](https://rinha2025.cadumagalhaes.dev/) um site com insights muito legais, por [Carlos Magalhães](https://github.com/1cadumagalhaes).
+
 
 ![galinha correndo](./misc/imgs/header.jpg)
 
