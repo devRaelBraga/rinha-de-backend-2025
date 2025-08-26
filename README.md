@@ -33,9 +33,4 @@ Você também pode assistir a [esse vídeo](https://www.youtube.com/watch?v=ldPk
 
 [![youtube](./misc/imgs/youtube-thumb.png)](https://www.youtube.com/watch?v=ldPkTtkJ86k)
 
-## Pontos em Aberto
-
-O seguinte são questões ainda não foram endereçados ou são pontos em aberto:
-- Script final do teste
-
 *Por favor, contribua com esse evento revisando textos, reportando problemas, bugs e inconsistências, dando sugestões e divulgando. Faça parte dessa comunidade!*
