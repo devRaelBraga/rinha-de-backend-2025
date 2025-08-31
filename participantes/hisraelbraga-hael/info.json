@@ -8,5 +8,5 @@
 	"storages": ["postgresql"],
 	"messaging": ["zeromq"],
 	"load-balancers": ["nginx"],
-	"other-technologies": ["fasthttp", "go"]
+	"other-technologies": ["go"]
 }
